@@ -6,7 +6,7 @@ Two types of Datatypes:
 
 Immutable And Mutable
 
-Immutable has string, nymeric and tuple(cant be change after created)
+Immutable has string, numeric and tuple(cant be change after created)
 
 Mutable has set, lists, dictionary (can be change after created)
 
